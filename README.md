@@ -1,6 +1,11 @@
-# SistemaGestionPersonas
-TAREA- TRABAJO COLABORATIVO ( UTH HONDURAS)
-ProyectoGestiónPersonas
-Integrantes:
-Uziel Alejandro Garcia Velasquez
-Josellin Nayeli
+
+# Sistema de Gestion Personas
+
+Un proyecto creado por 3 alumnos de la univerdad  Tecnologica de Honduras
+
+
+
+## Authors
+- [@Uziel Alejandro](https://github.com/AlejoUziel)
+- [@Josselin Nayeli](https://github.com/nayelilanza)
+
